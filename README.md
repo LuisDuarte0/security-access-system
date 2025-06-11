@@ -1,6 +1,6 @@
-# Sistema de Controle de Acesso - Security+
+# 🔐 Sistema de Controle de Acesso - Security+
 
-Uma aplicação React.js que demonstra conceitos fundamentais de segurança da CompTIA Security+, incluindo **Princípio do Menor Privilégio**, **Zero Trust** e **Controle de Acesso Baseado em Função (RBAC)**.
+Projeto feito com foco em aplicar, na prática, os principais conceitos de segurança da informação estudados para a certificação CompTIA Security+. Tudo foi desenvolvido com React.js e pensado para mostrar de forma clara como funcionam os princípios de Zero Trust, Privilégio Mínimo e Controle de Acesso Baseado em Função (RBAC).
 
 ## 🔐 Conceitos de Segurança Demonstrados
 
@@ -67,7 +67,7 @@ npm run dev
   - Visualização de restrições
   - Solicitação de acesso
 
-## 🎯 Funcionalidades por Role
+## 🎯 Funcionalidades por FUNÇÃO
 
 ### 🔴 Administrador
 - **Painel Administrativo Completo**
@@ -119,19 +119,10 @@ npm run dev
 - **Lucide React** - Ícones modernos
 - **Vite** - Build tool e servidor de desenvolvimento
 
-## 📱 Demonstração em Vídeo
 
-Esta aplicação foi projetada especificamente para demonstrações em vídeo, com:
+## 🔍 Eu fiz esse trabalho pensando em USO EDUCACIONAL
 
-- **Transições visuais claras** entre diferentes níveis de acesso
-- **Feedback visual imediato** para ações do usuário
-- **Explicações contextuais** dos conceitos de segurança
-- **Interface intuitiva** que facilita a apresentação
-- **Dados simulados realistas** para demonstração
-
-## 🔍 Casos de Uso Educacionais
-
-### Para Instrutores
+### Para algum Professor ou Instrutor:
 - Demonstração prática de conceitos teóricos
 - Comparação visual entre diferentes níveis de acesso
 - Exemplos concretos de implementação de segurança
@@ -139,7 +130,6 @@ Esta aplicação foi projetada especificamente para demonstrações em vídeo, c
 ### Para Estudantes
 - Experiência hands-on com RBAC
 - Compreensão visual do Princípio do Menor Privilégio
-- Preparação para certificação CompTIA Security+
 
 ### Para Profissionais
 - Referência de implementação de controle de acesso
@@ -175,5 +165,5 @@ security-access-system/
 
 ---
 
-**Desenvolvido para demonstração educacional dos conceitos fundamentais de segurança da informação conforme CompTIA Security+**
+**Desenvolvido por Luis Duarte para demonstração educacional dos conceitos fundamentais de segurança da informação**
 
