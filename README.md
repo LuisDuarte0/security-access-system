@@ -1,6 +1,6 @@
-# Sistema de Controle de Acesso - Security+
+# 🔐 Sistema de Controle de Acesso - Security+
 
-Uma aplicação React.js que demonstra conceitos fundamentais de segurança da CompTIA Security+, incluindo **Princípio do Menor Privilégio**, **Zero Trust** e **Controle de Acesso Baseado em Função (RBAC)**.
+Projeto feito com foco em aplicar, na prática, os principais conceitos de segurança da informação estudados para a certificação CompTIA Security+. Tudo foi desenvolvido com React.js e pensado para mostrar de forma clara como funcionam os princípios de Zero Trust, Privilégio Mínimo e Controle de Acesso Baseado em Função (RBAC).
 
 ## 🔐 Conceitos de Segurança Demonstrados
 
@@ -67,7 +67,7 @@ npm run dev
   - Visualização de restrições
   - Solicitação de acesso
 
-## 🎯 Funcionalidades por Role
+## 🎯 Funcionalidades por FUNÇÃO
 
 ### 🔴 Administrador
 - **Painel Administrativo Completo**
