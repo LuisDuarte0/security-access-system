@@ -47,8 +47,8 @@ const LoginForm = () => {
               <img src="/logo-cadeado.png" alt="Logo Cadeado" className="h-16 w-16" />
             </div>
           </div>
-          <h1 className="text-3xl font-bold text-gray-900">Sistema Seguro</h1>
-          <p className="text-gray-600">Controle de Acesso Baseado em Função</p>
+          <h1 className="text-3xl font-bold text-gray-900">Sistema de Controle de Acesso Baseado em Função</h1>
+          <p className="text-gray-600">Baseado em RBAC</p>
           <p className="text-xs text-gray-600">Feito por Luis Duarte</p>
         </div>
 
