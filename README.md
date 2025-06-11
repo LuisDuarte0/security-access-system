@@ -119,19 +119,10 @@ npm run dev
 - **Lucide React** - Ícones modernos
 - **Vite** - Build tool e servidor de desenvolvimento
 
-## 📱 Demonstração em Vídeo
 
-Esta aplicação foi projetada especificamente para demonstrações em vídeo, com:
+## 🔍 Eu fiz esse trabalho pensando em USO EDUCACIONAL
 
-- **Transições visuais claras** entre diferentes níveis de acesso
-- **Feedback visual imediato** para ações do usuário
-- **Explicações contextuais** dos conceitos de segurança
-- **Interface intuitiva** que facilita a apresentação
-- **Dados simulados realistas** para demonstração
-
-## 🔍 Casos de Uso Educacionais
-
-### Para Instrutores
+### Para algum Professor ou Instrutor:
 - Demonstração prática de conceitos teóricos
 - Comparação visual entre diferentes níveis de acesso
 - Exemplos concretos de implementação de segurança
@@ -139,7 +130,6 @@ Esta aplicação foi projetada especificamente para demonstrações em vídeo, c
 ### Para Estudantes
 - Experiência hands-on com RBAC
 - Compreensão visual do Princípio do Menor Privilégio
-- Preparação para certificação CompTIA Security+
 
 ### Para Profissionais
 - Referência de implementação de controle de acesso
@@ -175,5 +165,5 @@ security-access-system/
 
 ---
 
-**Desenvolvido para demonstração educacional dos conceitos fundamentais de segurança da informação conforme CompTIA Security+**
+**Desenvolvido por Luis Duarte para demonstração educacional dos conceitos fundamentais de segurança da informação**
 
