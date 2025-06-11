@@ -56,8 +56,8 @@ const Header = () => {
               <img src="/logo-cadeado.png" alt="Logo Cadeado" className="h-10 w-10" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Sistema Seguro</h1>
-              <p className="text-xs text-gray-500">Controle de Acesso RBAC</p>
+              <h1 className="text-xl font-bold text-gray-900">Sistema de Controle de Acesso</h1>
+              <p className="text-xs text-gray-500">Controle de Acesso RBAC (Role-Based Access Control)</p>
             </div>
           </div>
 
