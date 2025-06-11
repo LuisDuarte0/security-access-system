@@ -2,6 +2,8 @@
 
 Projeto feito com foco em aplicar, na prática, os principais conceitos de segurança da informação estudados para a certificação CompTIA Security+. Tudo foi desenvolvido com React.js e pensado para mostrar de forma clara como funcionam os princípios de Zero Trust, Privilégio Mínimo e Controle de Acesso Baseado em Função (RBAC).
 
+## Link da aplicação no Vercel: https://security-access-system.vercel.app
+
 ## 🔐 Conceitos de Segurança Demonstrados
 
 ### 1. Princípio do Menor Privilégio
